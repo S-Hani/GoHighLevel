@@ -1,0 +1,9 @@
+
+m
+java:S1104"PMake wait a static final constant or non-public and provide accessors if needed.(ª§´8”ÀÛóÖ1
+G
+java:S1444"*Make this "public static wait" field final(ª§´8•ÀÛóÖ1
+“
+java:S1845"vRename field "wait" to prevent any misunderstanding/clash with method "wait" defined in superclass "java.lang.Object".(ª§´8ÀÛóÖ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ˆğòÿ8¤äÊøÖ1
