@@ -19,7 +19,7 @@
 
 e.g.  java -jar GoHighLevel-assignment1-jar-with-dependencies.jar ~/Documents/credentials.properties
 
-For Assignment 2
+## For Assignment 2
 - java -jar GoHighLevel-assignment2-jar-with-dependencies.jar <path-to-transaction-logs-file> <month-and-year-to-find-charge-for-separated-by-space>
 
 e.g.  java -jar GoHighLevel-assignment2-jar-with-dependencies.jar ~/Documents/transaction-logs.csv "Jan 2023"
