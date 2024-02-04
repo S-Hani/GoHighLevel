@@ -9,6 +9,7 @@
 - Set JAVA_HOME to set to the JDK 21
 
 ## Getting the configs
+Download the configs from the email sent separately
 
 ## How to run the tests
 - Clone the repository
