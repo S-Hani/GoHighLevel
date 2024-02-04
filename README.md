@@ -16,11 +16,11 @@ Download the configs from the email sent separately
 - Open the terminal and navigate to the project folder
 
 ## For Assignment 1
-- java -jar GoHighLevel-assignment1-jar-with-dependencies.jar <path-to-credentials-file>
+- java -jar GoHighLevel-assignment1-jar-with-dependencies.jar {path-to-credentials-file}
 
 e.g.  java -jar GoHighLevel-assignment1-jar-with-dependencies.jar ~/Documents/credentials.properties
 
 ## For Assignment 2
-- java -jar GoHighLevel-assignment2-jar-with-dependencies.jar <path-to-transaction-logs-file> <month-and-year-to-find-charge-for-separated-by-space>
+- java -jar GoHighLevel-assignment2-jar-with-dependencies.jar {path-to-transaction-logs-file} {month-and-year-to-find-charge-for-separated-by-space}
 
 e.g.  java -jar GoHighLevel-assignment2-jar-with-dependencies.jar ~/Documents/transaction-logs.csv "Jan 2023"
